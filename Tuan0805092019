@@ -1,0 +1,53 @@
+## Tổng kết Công việc Tuần 05-09/08-2019
+
+### Công việc đã Thực hiện
+
+#### 1. Triển khai Lắp mạch Thu thập trên Raspberry Pi
+
+- Lắp Mạch Thu thập sử dụng các Cảm biến: Ẩm Đất - Ánh sáng quang trở - Nhiệt Ẩm Không khí và Thiết bị: Rơ-le - Công tắc
+- [Sơ đồ Lắp mạch Thu thập trên Raspi](https://drive.google.com/open?id=15l-loSCQve58tXH8hieSeFIFvKbIAOG3)
+
+#### 2. Triển khai Lắp mạch Thu thập trên Arduino
+
+- Arduino IDE bị lỗi, báo nạp được Mã nhưng Arduino hoạt động sai (giao diện Nạp khác mọi lần thực hiện)
+- Hình ảnh
+- Gieo hạt đỗ đen (đã được ngâm nước qua đêm)
+- Liên hệ anh Linh mô tả, gửi Sơ đồ Mạch yêu cầu thiết kế, xây dựng bo mạch kết nối
+
+#### 3. Làm Thực nghiệm Đề tài Noron-python
+
+- Chưa đủ Kiến thức Thực hiện và Thuyết trình Nội dung [Noron-python.docx]()
+- Tạo file Slide theo Video [Mạng nơ-ron nhân tạo - Neural Networks | Tự học machine learning cơ bản](https://www.youtube.com/watch?v=EvilOcumRM8)
+- Kết quả Thực hiện: [Machine Learning - Neuron Beginner.pptx](https://drive.google.com/open?id=1rOeeWThGEIxiDp612FhFDXsA_QO6N9Nb)
+- Thực hiện Video [Create a Simple Neural Network in Python from Scratch](https://www.youtube.com/watch?v=kft1AJ9WVDk) - File Báo cáo Tổng hợp (Gửi tiếp sau)
+- Biết thêm các khái niệm: Perceptron - Hidden Layer - Backpropagation - Cần tạo file Tổng hợp
+
+#### 3. Hình ảnh từ vựng 50 bài minna
+
+- Hoàn thành bài 1-2-3
+
+### Công việc dự kiến
+
+#### 1. Triển khai Lắp mạch Thu thập trên Arduino
+
+- Hợp tác với anh Linh xây dựng Bo mạch Kết nối
+- Triển khai MQTT
+
+#### 2. Triển khai Lắp mạch Thu thập trên Raspberry Pi
+
+- Thực hiện Lưu Dữ liệu Nông học vào file Txt
+- Xây dựng Hệ thống MQTT
+
+#### 3. Làm Thực nghiệm Đề tài Noron-python - Ưu tiên\*
+
+- Thực hiện Thuyết trình Nội dung Video: Cách tạo mạng nơ-ron đơn giản [Create a Simple Neural Network in Python from Scratch 1+2](https://www.youtube.com/watch?v=kft1AJ9WVDk)
+- Deadline: 14h00 Chiều thứ 4 ngày 21/08 Thuyết trình
+
+#### 4. Hình ảnh từ vựng 50 bài minna
+
+- Thực hiện bài 4 đến 10
+
+#### 5. Ngày hội Trí tuệ nhân tạo (AI4VN)
+
+- Thời gian: Ngày 14-15/08
+- Địa điểm: Trường ĐH Bách Khoa Hà Nội
