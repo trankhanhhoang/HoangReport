@@ -1,4 +1,4 @@
-##Tiến trình Buổi lên lớp môn Máy tính và mạng máy tính KTIn -K63S ngày 05/09:
+## Tiến trình Buổi lên lớp môn Máy tính và mạng máy tính KTIn -K63S ngày 05/09:
 
 - Giới thiệu dạy thay môn học và link Facebook Lớp
 - Điểm danh, ghi Danh sách Lớp
